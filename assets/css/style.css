@@ -1,9 +1,22 @@
-/* For Index */
+/* Index */
 body {
     background-color: #ffffff;
-    border-color: #dddddd;
     background: url("../images/what-the-hex.png");
 }
+
+
+/* Updated about */
+.about{
+    font-family: 'Julius Sans One', sans-serif;
+    float: right;
+    color: #B0B4B6;
+}
+
+
+
+
+
+
 
 #navBar{
     text-align: right;
